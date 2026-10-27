@@ -14,5 +14,5 @@ Adres: https://franczesko420.github.io/kolos-czasy/
 - **Bez treści podręcznika.** Strona nie zawiera tekstu, ćwiczeń, klucza odpowiedzi ani skanów podręcznika MyGrammarLab ani zadań z MyEnglishLab. Podaje tylko numery stron i nazwy sekcji. Plik PDF podręcznika nie jest tu udostępniany: użytkownik może otworzyć własny egzemplarz, który zostaje wyłącznie w jego przeglądarce i nigdzie nie jest wysyłany.
 - **Treści własne.** Notatki, pytania, tłumaczenia, historia z lukami, słowniczek i kreator zostały napisane od zera na potrzeby tej strony.
 - **Slajdy z zajęć.** Tekst slajdów pochodzi z prezentacji udostępnionych studentom na zajęciach; prawa do nich należą do ich autorki. Oryginały otwierają się w serwisie Canva.
-- **Prywatność.** Strona nie zbiera danych osobowych, nie używa plików cookie ani narzędzi analitycznych.
+- **Prywatność.** Strona sama nie zbiera danych osobowych i nie używa narzędzi analitycznych ani reklam. Osadzone slajdy wyświetla serwis Canva, a czcionki pochodzą z Google Fonts, na zasadach tych serwisów.
 - **Zgłoszenia.** Jeśli uważasz, że jakaś treść narusza Twoje prawa albo zawiera błąd, załóż zgłoszenie w zakładce Issues tego repozytorium. Sporna treść zostanie poprawiona albo usunięta.
